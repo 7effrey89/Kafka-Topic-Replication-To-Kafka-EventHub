@@ -13,9 +13,9 @@ The template will deploy the following:
 
 Template can be downloaded here: [https://github.com/jeffreylai_microsoft/KafkaToEventHubDemo/blob/main/Arm%20Template/templateWithoutFunction.json](https://github.com/7effrey89/Kafka-Topic-Replication-To-Kafka-EventHub/blob/main/Arm%20Template/templateWithoutFunction.json)
 
-# Excersise
+# Excersice
 The main exercise in this lab will be to produce an Azure Function to consume and send a message between Kafka and EventHub.
-Optional excersises have been added to inspire how to consume streaming data from EventHub.
+Optional Excersices have been added to inspire how to consume streaming data from EventHub.
 
 The lab Guide can be downloaded here: [https://github.com/jeffreylai_microsoft/KafkaToEventHubDemo/blob/main/Streaming%20Demo%20Lab.pdf](https://github.com/7effrey89/Kafka-Topic-Replication-To-Kafka-EventHub/blob/main/Streaming%20Demo%20Lab.pdf)
 
