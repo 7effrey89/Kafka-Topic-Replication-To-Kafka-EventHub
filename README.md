@@ -11,13 +11,13 @@ The template will deploy the following:
 - Stream Analytic Job to sink and flatten the json output received from EventHubClone. Will be refered to as **FlatDumpStreamJob**
 - Stream Analytic Job to stream and transform the recieved json output to PowerBi in realtime. Will be refered to as **AggregationStreamJob**
 
-Template can be downloaded here: https://github.com/jeffreylai_microsoft/KafkaToEventHubDemo/blob/main/Arm%20Template/templateWithoutFunction.json
+Template can be downloaded here: [https://github.com/jeffreylai_microsoft/KafkaToEventHubDemo/blob/main/Arm%20Template/templateWithoutFunction.json](https://github.com/7effrey89/Kafka-Topic-Replication-To-Kafka-EventHub/blob/main/Arm%20Template/templateWithoutFunction.json)
 
 # Excersise
 The main exercise in this lab will be to produce an Azure Function to consume and send a message between Kafka and EventHub.
 Optional excersises have been added to inspire how to consume streaming data from EventHub.
 
-The lab Guide can be downloaded here: https://github.com/jeffreylai_microsoft/KafkaToEventHubDemo/blob/main/Streaming%20Demo%20Lab.pdf
+The lab Guide can be downloaded here: [https://github.com/jeffreylai_microsoft/KafkaToEventHubDemo/blob/main/Streaming%20Demo%20Lab.pdf](https://github.com/7effrey89/Kafka-Topic-Replication-To-Kafka-EventHub/blob/main/Streaming%20Demo%20Lab.pdf)
 
 # Code Samples below used in the lab. More can be found in the repo.
 
